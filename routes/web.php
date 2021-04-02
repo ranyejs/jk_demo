@@ -14,6 +14,7 @@
 Route::any('/', function () {
     return view('welcome');
 });
-Route::get('/test',function(){
-   return 'test';
+Route::any('/dd', function () {
+    return view('dd');
 });
+Route::get('/test','TestController@index');

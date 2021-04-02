@@ -11,8 +11,8 @@
 
 <div class="container">
     <div class="page-header">
-        <h1>This is an example page.</h1>
-        <i>view the source code in <a href="/aetherupload/example_source" target="_blank">vendor/peinhu/aetherupload-laravel/views/example.blade.php</a></i>
+        <h1>大文件上传测试</h1>
+{{--        <i>view the source code in <a href="/aetherupload/example_source" target="_blank">vendor/peinhu/aetherupload-laravel/views/example.blade.php</a></i>--}}
     </div>
 
     <div class="row">
